@@ -5,3 +5,4 @@ exclude:
         # Exclude a single directory. For example, - src/lib
         - tests
         - app.js
+        - nodejs-goof/exploits
