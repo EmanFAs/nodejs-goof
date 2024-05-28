@@ -2,7 +2,5 @@
 ---
 exclude:
     global:
-        # Exclude a single file. For example, - test.spec.js
-        - package.json
         # Exclude a single directory. For example, - src/lib
         - nodejs-goof/exploits/
