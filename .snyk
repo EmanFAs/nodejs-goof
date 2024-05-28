@@ -3,5 +3,5 @@
 exclude:
     global:
         # Exclude a single directory. For example, - src/lib
-        - nodejs-goof/exploits/
-        - nodejs-goof/service/
+        - nodejs-goof/exploits/*
+        - nodejs-goof/service/*
