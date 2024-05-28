@@ -2,5 +2,5 @@
 ---
 exclude:
     global:
-        - exploits/*
-        - service/*
+        # Exclude a single directory. For example, - src/lib
+        - tests
