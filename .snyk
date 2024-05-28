@@ -2,6 +2,6 @@
 ---
 exclude:
     global:
-        # Exclude a single directory. For example, - src/lib
-        - nodejs-goof/exploits/*
-        - nodejs-goof/service/*
+        # Exclude all files and directories located within any specified folder within your Project. For example, directory_name/** matches and excludes all contents under any directory named directory_name. It is not constrained to the root level or the location of the .snyk file.
+        - exploits/*
+        - service/*
